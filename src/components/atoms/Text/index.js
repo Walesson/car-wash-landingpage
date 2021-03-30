@@ -34,24 +34,30 @@ export const Text = styled.span`
 
 export const H1 = styled(Text)`
   font-size: 4.4em;
+  font-weight: bold;
 `;
 
 export const H2 = styled(Text)`
   font-size: 3.2em;
+  font-weight: bolder;
 `;
 
 export const H3 = styled(Text)`
   font-size: 2.8em;
+  font-weight: bold;
 `;
 
 export const H4 = styled(Text)`
   font-size: 2.4em;
+  font-weight: bold;
 `;
 
 export const H5 = styled(Text)`
+  font-weight: bold;
   font-size: 2em;
 `;
 
 export const H6 = styled(Text)`
   font-size: 1.6em;
+  font-weight: bold;
 `;

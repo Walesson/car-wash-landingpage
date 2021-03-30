@@ -10,6 +10,7 @@ export const AppTheme = {
       main: "#FFC145",
     },
     light: {
+      light: "#EFEFEF",
       main: "#FFF",
     },
     dark: {
