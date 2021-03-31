@@ -1,11 +1,9 @@
 import React from "react";
 import LogoImg from "../../../assets/images/logo-v1.png";
-import { Button } from "../../atoms";
 import {
   Wrapper,
   Container,
   Right,
-  Entrar,
   MenuLink,
   MenuFont,
   ListLinks,
@@ -13,10 +11,6 @@ import {
 } from "./sytles";
 
 export const Header = () => {
-  const handleEnter = () => {
-    console.info("abrir o modal/pagina de login");
-  };
-
   return (
     <Wrapper>
       <Container>
@@ -33,7 +27,6 @@ export const Header = () => {
               <MenuFont semibold>Quem Somos</MenuFont>
             </MenuLink>
             <MenuLink>
-              {/* <Button label="entrar" /> */}
               <MenuFont semibold>Acessar</MenuFont>
             </MenuLink>
             <MenuLink>
