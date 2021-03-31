@@ -4,6 +4,7 @@ import { Container as UnstyledContainer } from "../Container";
 
 export const Container = styled(UnstyledContainer)`
   min-height: 45vh;
+  margin-bottom: 10.6em;
 `;
 
 export const BigTitle = styled(Text)`

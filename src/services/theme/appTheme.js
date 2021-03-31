@@ -23,7 +23,7 @@ export const AppTheme = {
     },
     text: {
       main: "#D3D3D3",
-      subtle: "#8C8C8C",
+      subtle: "#8F90A6",
       dark: "#909090",
     },
     border: {
