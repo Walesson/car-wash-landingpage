@@ -10,3 +10,5 @@ export const Container = styled(UnstyledContainer)`
 export const TitlePage = styled(UnstyledTitlePage)`
   margin-bottom: 2.7em;
 `;
+
+export const Content = styled.div``;
