@@ -4,6 +4,7 @@ import {
   Home as Initial,
   Marketing,
   HowItWorks,
+  Benefits,
 } from "../../components";
 
 export const Home = () => {
@@ -13,6 +14,7 @@ export const Home = () => {
       <Initial />
       <Marketing />
       <HowItWorks />
+      <Benefits />
     </div>
   );
 };
