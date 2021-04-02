@@ -5,6 +5,9 @@ import {
   Marketing,
   HowItWorks,
   Benefits,
+  Plans,
+  AboutUs,
+  Footer,
 } from "../../components";
 
 export const Home = () => {
@@ -15,6 +18,9 @@ export const Home = () => {
       <Marketing />
       <HowItWorks />
       <Benefits />
+      <Plans />
+      <AboutUs />
+      <Footer />
     </div>
   );
 };
