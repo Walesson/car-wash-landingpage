@@ -1,5 +1,13 @@
 import React from "react";
-import { Wrapper, Header, Title, PlusCircle, Persons, Start } from "./styles";
+import {
+  Wrapper,
+  Header,
+  Title,
+  Desc,
+  PlusCircle,
+  Persons,
+  Start,
+} from "./styles";
 
 export const CardInfo = ({ title, iconName, desc }) => (
   <Wrapper>
@@ -9,5 +17,6 @@ export const CardInfo = ({ title, iconName, desc }) => (
       {iconName === "star" && <Start />}
       <Title>{title}</Title>
     </Header>
+    <Desc>{desc}</Desc>
   </Wrapper>
 );

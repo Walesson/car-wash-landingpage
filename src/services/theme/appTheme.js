@@ -4,7 +4,7 @@ export const AppTheme = {
       main: "#32A6C5",
     },
     primary: {
-      main: "#0856CA",
+      main: "#4285F4", //"#0856CA",
     },
     secondary: {
       main: "#FFC145",
