@@ -2,9 +2,9 @@
 
 
 Oferecemos a ponte entre Cliente/Empresa para obtenção de serviços de lavagem e estética de automotores.
-
+<center>
 <img src="https://raw.githubusercontent.com/Walesson/car-wash-landingpage/develop/src/assets/images/img-landingpage.png?w=512" heigt="600" width="600">
-
+</center>
 Ser uma empresa referência em oferecer agilidade e comodidade ao listar parceiros que ofertam serviços de lavagem e estética de automotores, sempre em busca do pioneirismo e da vanguarda, se tratando de lavagem, aliando praticidade com custo e benefício.
 
 # Type Command
