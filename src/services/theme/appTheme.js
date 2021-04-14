@@ -1,7 +1,7 @@
 export const AppTheme = {
   colors: {
     success: {
-      main: "#32A6C5",
+      main: "#4BB543",
     },
     primary: {
       main: "#4285F4", //"#0856CA",
