@@ -7,7 +7,7 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
-  document.getElementById("carwash_landingpage")
+  document.getElementById("root")
 );
 
 reportWebVitals();
