@@ -12,7 +12,7 @@ import {
 } from "./styles";
 
 export const HowItWorks = () => (
-  <Container>
+  <Container id="howItWorks">
     <TitlePage>COMO FUNCIONA</TitlePage>
     <DescContent>
       <Title>Para você</Title>

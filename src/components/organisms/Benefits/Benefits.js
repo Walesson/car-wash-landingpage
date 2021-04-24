@@ -5,7 +5,7 @@ import { Container, TitlePage, Content } from "./styles";
 
 export const Benefits = () => {
   return (
-    <Container>
+    <Container id="benefits">
       <TitlePage>OS MELHORES BENEFÍCIOS</TitlePage>
       <Content>
         <CardInfo

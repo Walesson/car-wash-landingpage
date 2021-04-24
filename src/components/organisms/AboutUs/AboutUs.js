@@ -10,7 +10,7 @@ import {
 } from "./styles";
 
 export const AboutUs = () => (
-  <Container>
+  <Container id="aboutUs">
     <TitlePage>QUEM SOMOS</TitlePage>
     <DescContent>
       <Info>

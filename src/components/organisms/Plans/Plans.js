@@ -54,7 +54,7 @@ export const Plans = () => {
     },
   ];
   return (
-    <Container>
+    <Container id="plans">
       <TitlePage>CONHEÇA NOSSOS PLANOS</TitlePage>
       <Content>
         {listPlans.map((item) => (

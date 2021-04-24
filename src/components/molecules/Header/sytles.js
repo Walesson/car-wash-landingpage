@@ -39,6 +39,10 @@ export const MenuLink = styled.li`
   cursor: pointer;
 `;
 
+export const Link = styled.a`
+  text-decoration: none;
+`;
+
 export const MenuFont = styled(Text)`
   font-size: 1.6em;
 `;

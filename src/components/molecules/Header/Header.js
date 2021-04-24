@@ -5,6 +5,7 @@ import {
   Container,
   Right,
   MenuLink,
+  Link,
   MenuFont,
   ListLinks,
   Logo,
@@ -18,13 +19,19 @@ export const Header = () => {
         <Right>
           <ListLinks>
             <MenuLink>
-              <MenuFont semibold>Como funciona</MenuFont>
+              <Link href="#howItWorks">
+                <MenuFont semibold>Como funciona</MenuFont>
+              </Link>
             </MenuLink>
             <MenuLink>
-              <MenuFont semibold>Planos</MenuFont>
+              <Link href="#plans">
+                <MenuFont semibold>Planos</MenuFont>
+              </Link>
             </MenuLink>
             <MenuLink>
-              <MenuFont semibold>Quem Somos</MenuFont>
+              <Link href="#aboutUs">
+                <MenuFont semibold>Quem Somos</MenuFont>
+              </Link>
             </MenuLink>
             <MenuLink>
               <MenuFont semibold>Acessar</MenuFont>

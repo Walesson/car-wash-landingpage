@@ -12,7 +12,7 @@ import {
 } from "./styles";
 
 export const Home = () => (
-  <Container>
+  <Container id="home">
     <InfoHome>
       <InfoLeft>
         <BigTitle bold>Seu Carro, Sempre Limpo, Sempre Pronto!</BigTitle>
